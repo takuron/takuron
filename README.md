@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnyvfang&show_icons=true&locale=en" alt="cnyvfang" /></p>
+
+### Hi there 👋, I'm Takuron
 
 <!--
 **takuron/takuron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
