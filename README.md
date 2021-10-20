@@ -1,4 +1,4 @@
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnyvfang&show_icons=true&locale=en" alt="cnyvfang" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takuron&show_icons=true&locale=en" alt="takuron" /></p>
 
 ### Hi there 👋, I'm Takuron
 
